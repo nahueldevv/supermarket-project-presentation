@@ -5,7 +5,7 @@ Este repositorio contiene una **presentación web interactiva** desarrollada com
 ## 🖥️ Vista previa
 
 Accedé a la versión en línea en:  
-➡️ [Ir al sitio](https://<tu_usuario>.github.io/<tu_repositorio>)  
+➡️ [Supermarket-Proect-Site](https://nahueldevv.github.io/supermarket-project-presentation/)  
 
 ## 🎯 Características
 
